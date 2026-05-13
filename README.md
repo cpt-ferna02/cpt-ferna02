@@ -1,67 +1,36 @@
-# Hi, I'm Fernando 👋
+# Fernando Cortez Jr.
+**Cybersecurity · AI-assisted SOC · Cloud security · LLM red-teaming · Laredo, TX**
 
-Cybersecurity student pursuing an AAS in Cyber Information Assurance, with hands-on experience in both offensive and defensive security. I build home labs to simulate real enterprise environments, practice attack techniques, and develop detections — because the best way to defend systems is to understand how they're broken.
-
----
-
-## 🎯 Currently Targeting
-- SOC Analyst (Tier 1 / Tier 2)
-- Junior Penetration Tester
-- Security / Vulnerability Analyst
+Cybersecurity professional with an A.A.S. in Cyber Information Assurance and active **CompTIA Security+** and **PenTest+** certifications. I build hands-on labs and tooling at the intersection of security operations and AI — from SIEM detection pipelines to LLM guardrail systems. Seeking fully remote cybersecurity roles.
 
 ---
 
-## 🏅 Certifications
-- CompTIA Security+
-- CompTIA PenTest+
-- AAS in Cyber Information Assurance *(in progress)*
+## Certifications
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)
+![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-red?style=flat-square)
 
 ---
 
-## 🔬 Featured Projects
-
-### 🏰 [Active Directory Home Lab](https://github.com/cpt-ferna02/active-directory-lab)
-Built a fully functional enterprise AD environment using Windows Server 2022. Simulated 4 real-world attack techniques mapped to MITRE ATT&CK — including Kerberoasting, credential dumping with Mimikatz, brute force, and AD enumeration with SharpHound. Documented detections using Windows Security Event IDs.
-
-> **Tools:** VirtualBox · Windows Server 2022 · Mimikatz · SharpHound · PowerShell  
-> **MITRE:** T1110 · T1087 · T1558.003 · T1003.001
-
----
-
-### 📊 [Splunk SIEM Lab](https://github.com/cpt-ferna02/splunk-siem-lab)
-Home lab SIEM using Splunk, Sysmon, and Atomic Red Team to detect MITRE ATT&CK techniques. Focused on building detection rules and correlating security events.
-
-> **Tools:** Splunk · Sysmon · Atomic Red Team
+## Core skills
+`Wazuh` `Splunk` `Sysmon` `Wireshark` `GoPhish` `Nmap` `Atomic Red Team` `Mimikatz`  
+`MITRE ATT&CK` `MITRE ATLAS` `OWASP LLM Top 10` `NIST`  
+`AWS (IAM · S3 · EC2)` `CloudGoat` `boto3`  
+`LLM red-teaming` `Prompt injection` `Guardrail design` `Claude API`  
+`Python` `Flask` `REST APIs` `Digital forensics` `PCAP analysis`
 
 ---
 
-### 🦈 [Wireshark Network Analysis Lab](https://github.com/cpt-ferna02/wireshark-network-analysis-lab)
-Network traffic analysis lab using Wireshark to analyze live captures and malicious PCAPs for threat hunting and anomaly detection.
+## Featured projects
 
-> **Tools:** Wireshark · PCAP analysis · Threat Hunting
-
----
-
-## 🛠️ Skills & Tools
-
-| Category | Tools |
+| Project | Description |
 |---|---|
-| **SIEM / Detection** | Splunk, Sysmon, Windows Event Logs |
-| **Offensive** | Mimikatz, SharpHound, Metasploit, Nmap, Burp Suite |
-| **Network Analysis** | Wireshark, PCAP analysis |
-| **Scripting** | Python, PowerShell |
-| **Platforms** | Active Directory, Windows Server 2022, Kali Linux |
-| **Frameworks** | MITRE ATT&CK |
+| [ai-soc-detection-lab](https://github.com/cpt-ferna02/ai-soc-detection-lab) | 3-VM SOC lab · Wazuh · custom MITRE-mapped detection rules · Claude AI alert enrichment pipeline |
+| [llm-security-bench](https://github.com/cpt-ferna02/llm-security-bench) | OWASP LLM Top 10 red-team testbed · dual-model classifier benchmarking · layered guardrail defense |
+| [cloudgoat-labs](https://github.com/cpt-ferna02/cloudgoat-labs) | Real AWS attack chains · IAM privilege escalation · S3 SSRF/credential theft · MITRE ATT&CK for Cloud |
+| [ai-soc-triage](https://github.com/cpt-ferna02/ai-soc-triage) | Splunk + Claude API auto-triage pipeline · 10 live alerts triaged · structured risk scoring |
+| [splunk-phishing-lab](https://github.com/cpt-ferna02/splunk-phishing-lab) | Full phishing kill chain · GoPhish + Mailhog + Splunk · SPL detections · SOC-style dashboard |
+| [active-directory-lab](https://github.com/cpt-ferna02/active-directory-lab) | Enterprise AD simulation · Kerberoasting · Mimikatz credential dumping · Splunk detection engineering |
 
 ---
 
-## 📈 What I'm Working On
-- 🐍 Building a Python-based **Windows Event Log Threat Detector** for automated IOC detection
-- 🔐 Studying for next certification milestone
-- 📝 Writing up CTF challenge walkthroughs
-
----
-
-## 📫 Connect With Me
-- 💼 (https://www.linkedin.com/in/fernando-cortez-jr-a3529a313/)
-- 📧 Open to entry-level security opportunities
+📬 fernandocop12@gmail.com · Seeking fully remote cybersecurity roles
