@@ -4,7 +4,7 @@
 
 Cybersecurity student with **CompTIA Security+** and **CompTIA PenTest+** focused on the intersection of offensive security, detection engineering, and AI-assisted tooling. Built 17 hands-on projects covering adversary simulation, SOC automation, cloud attack labs, and LLM security — all mapped to MITRE ATT&CK.
 
-📧 fernandocop12@gmail.com · [LinkedIn](https://linkedin.com/in/fernando-cortez-jr) · [GitHub](https://github.com/cpt-ferna02) · Open to fully remote roles
+📧 fernandocop12@gmail.com · [LinkedIn](www.linkedin.com/in/fernando-cortez-jr-a3529a313) · [GitHub](https://github.com/cpt-ferna02) · Open to fully remote roles
 
 ---
 
