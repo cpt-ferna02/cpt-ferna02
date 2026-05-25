@@ -1,7 +1,7 @@
 # Fernando Cortez Jr.
 **Cybersecurity · AI-augmented pentesting · Purple team automation · SOC engineering · Laredo, TX**
 
-Cybersecurity professional with an A.A.S. in Cyber Information Assurance and active **CompTIA Security+** and **PenTest+** certifications. I build hands-on labs and tooling at the intersection of offensive security and AI — from purple team automation platforms to LLM guardrail systems — with 20 projects mapped to MITRE ATT&CK and MITRE ATLAS. Seeking fully remote cybersecurity roles.
+Cybersecurity professional with an A.A.S. in Cyber Information Assurance and active **CompTIA Security+** and **PenTest+** certifications. I build hands-on labs and tooling at the intersection of offensive security and AI — from purple team automation platforms to LLM guardrail systems — with 17 projects mapped to MITRE ATT&CK and MITRE ATLAS. Seeking fully remote cybersecurity roles.
 
 ---
 
